@@ -1,0 +1,4 @@
+Hello there,I,the founder of light,have to announce that vsix is temporarily down because in the newest update (2.0) we changed our entire code and way of scripting (as shown in tutorial.md or tutorial.pdf) so for a few days it'll be down,when I'll fix it,just go on mattia17git.github.io/light and click the vsix download
+
+Have a great day,
+mistview
